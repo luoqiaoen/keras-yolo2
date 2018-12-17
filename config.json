@@ -12,6 +12,8 @@
         "train_annot_folder":   "../large_dataset/whale_box/whale_box_train_ann/",
         "missed_image_folder":   "../large_dataset/whale_box/whale_missed_train/",
         "missed_annot_folder":   "../large_dataset/whale_box/whale_missed_train_ann/",
+        "missed_test_images_folder":"../large_dataset/whale_box/whale_missed_test/",
+        "missed_test_annot_folder":"../large_dataset/whale_box/whale_missed_test_ann/",
         "train_times":          8,
         "pretrained_weights":   "",
         "batch_size":           18,
